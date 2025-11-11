@@ -1,4 +1,4 @@
-Small exercise to get familiar with C language based on this exercise:
+Kleine Übung zum Kennenlernen der C-Sprache anhand dieser Aufgabe:
 
 Programmieren Sie einen Kola-Automaten.
 - Zwei parallele const Arrays für Name und Preis der Produkte
